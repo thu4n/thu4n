@@ -1,4 +1,4 @@
-![edgeWall2](https://user-images.githubusercontent.com/53972592/174452470-f3819be9-81b3-4a5f-bb8a-905c13c928b7.png)
+![githubWall](https://user-images.githubusercontent.com/53972592/174469595-535210ec-bd39-4e8a-b69f-95eee9d1623b.png)
 
 <!--
 **thu4n/thu4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
