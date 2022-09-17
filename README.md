@@ -1,4 +1,9 @@
-![githubWall](https://user-images.githubusercontent.com/53972592/174469595-535210ec-bd39-4e8a-b69f-95eee9d1623b.png)
+![githubWall](https://user-images.githubusercontent.com/53972592/190848701-be99a016-c20f-427d-af32-fd8d09406340.png)
+
+## My stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thu4n&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thu4n&theme=tokyonight&hide_border=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **thu4n/thu4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
